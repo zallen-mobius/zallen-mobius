@@ -18,3 +18,7 @@
 
 ## ¿En qué puedo ayudarte?
 Me apasiona aprender nuevas tecnologías y colaborar en proyectos desafiantes. Si tienes una oportunidad o proyecto interesante, ¡no dudes en contactarme!
+
+
+## Estadisticas
+![zallen-mobius's Stats](https://github-readme-stats.vercel.app/api?username=zallen-mobius&theme=nightowl&show_icons=true&hide_border=true&count_private=true)

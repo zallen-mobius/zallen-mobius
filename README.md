@@ -12,9 +12,9 @@
 - 🌱 Actualmente aprendiendo: JavaScript, Angular y NodeJS.
 - 🌎 Buscando oportunidades como desarrollador de software remoto.
 
-📫 #Contacto
+## 📫Contacto
 -Correo: angel.lopez.carranza@outlook.com
 -LinkedIn: angel-adrian-lopez-carranza
 
-##¿En qué puedo ayudarte?
+## ¿En qué puedo ayudarte?
 Me apasiona aprender nuevas tecnologías y colaborar en proyectos desafiantes. Si tienes una oportunidad o proyecto interesante, ¡no dudes en contactarme!
